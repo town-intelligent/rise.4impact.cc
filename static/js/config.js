@@ -7,3 +7,7 @@ HOST_URL_EID = "https://eid.townway.com.tw";
 
 // Site hoster
 SITE_HOSTERS = ["ti@4impact.cc", "yunuscentre@yunustw.org"]
+
+// Site information
+SITE_TYPE = 0 // 0 or 1(公板)
+SITE_NAME = "4impact"
